@@ -1,0 +1,61 @@
+.expenses {
+  padding: 1rem;
+  background-color: rgb(31, 31, 31);
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+}
+
+.add-expense {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 12px;
+}
+
+.remove-expense {
+  background-color: #f44336; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 12px;
+}
+
+.remove-last-expense {
+  background-color: #e7e7e7;
+  color: black;
+  border: none;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 12px;
+}
+
+.title {
+  color: white;
+  font-size: 0.75rem;
+  font-weight: bold;
+}
+
+.amount {
+  color: white;
+  font-size: 0.75rem;
+  font-weight: bold;
+}
+
+.date {
+  color: white;
+  font-size: 0.75rem;
+  font-weight: bold;
+}
